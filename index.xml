@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Treppner</title>
+    <link>https://Treppner.github.io/</link>
+      <atom:link href="https://Treppner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Treppner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Martin Treppner</title>
+      <link>https://Treppner.github.io/</link>
+    </image>
+    
+  </channel>
+</rss>
