@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z&amp;ouml;ller Daniela | Martin Treppner</title>
+    <link>/authors/zoumlller-daniela/</link>
+      <atom:link href="/authors/zoumlller-daniela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z&amp;ouml;ller Daniela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/martintreppner</url>
+      <title>Z&amp;ouml;ller Daniela</title>
+      <link>/authors/zoumlller-daniela/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Activity Tracker Data Using Deep Boltzmann Machines</title>
+      <link>/publication/martin-modeling-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/martin-modeling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

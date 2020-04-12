@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark W Miller | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/mark-w-miller/</link>
+      <atom:link href="https://Treppner.github.io/authors/mark-w-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark W Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Mark W Miller</title>
+      <link>https://Treppner.github.io/authors/mark-w-miller/</link>
+    </image>
+    
+    <item>
+      <title>Sample size requirements for structural equation models: An evaluation of power, bias, and solution propriety</title>
+      <link>https://Treppner.github.io/publication/wolf-sample-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/wolf-sample-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

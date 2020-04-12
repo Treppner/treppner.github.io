@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belinda Phipson | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/belinda-phipson/</link>
+      <atom:link href="https://Treppner.github.io/authors/belinda-phipson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Belinda Phipson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Belinda Phipson</title>
+      <link>https://Treppner.github.io/authors/belinda-phipson/</link>
+    </image>
+    
+    <item>
+      <title>Splatter: simulation of single-cell RNA sequencing data</title>
+      <link>https://Treppner.github.io/publication/zappia-splatter-2017-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/zappia-splatter-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splatter: simulation of single-cell RNA sequencing data</title>
+      <link>https://Treppner.github.io/publication/zappia-splatter-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/zappia-splatter-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

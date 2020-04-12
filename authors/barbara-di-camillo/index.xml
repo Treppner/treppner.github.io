@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Di Camillo | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/barbara-di-camillo/</link>
+      <atom:link href="https://Treppner.github.io/authors/barbara-di-camillo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barbara Di Camillo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Barbara Di Camillo</title>
+      <link>https://Treppner.github.io/authors/barbara-di-camillo/</link>
+    </image>
+    
+    <item>
+      <title>How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives</title>
+      <link>https://Treppner.github.io/publication/dal-molin-how-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/dal-molin-how-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

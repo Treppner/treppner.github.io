@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael A. Skinnider | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/michael-a.-skinnider/</link>
+      <atom:link href="https://Treppner.github.io/authors/michael-a.-skinnider/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael A. Skinnider</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Michael A. Skinnider</title>
+      <link>https://Treppner.github.io/authors/michael-a.-skinnider/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating measures of association for single-cell transcriptomics</title>
+      <link>https://Treppner.github.io/publication/skinnider-evaluating-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/skinnider-evaluating-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentine Svensson | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/valentine-svensson/</link>
+      <atom:link href="https://Treppner.github.io/authors/valentine-svensson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentine Svensson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Valentine Svensson</title>
+      <link>https://Treppner.github.io/authors/valentine-svensson/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the tradeoff between sequencing depth and cell number in single-cell RNA-seq</title>
+      <link>https://Treppner.github.io/publication/svensson-quantifying-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/svensson-quantifying-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power analysis of single-cell RNA-sequencing experiments</title>
+      <link>https://Treppner.github.io/publication/svensson-power-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/svensson-power-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

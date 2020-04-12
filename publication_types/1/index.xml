@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Martin Treppner</title>
+    <link>https://Treppner.github.io/publication_types/1/</link>
+      <atom:link href="https://Treppner.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>1</title>
+      <link>https://Treppner.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Exponential Family Restricted Boltzmann Machines and Annealed Importance Sampling</title>
+      <link>https://Treppner.github.io/publication/li-exponential-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/li-exponential-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep boltzmann machines</title>
+      <link>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential family harmoniums with an application to information retrieval</title>
+      <link>https://Treppner.github.io/publication/welling-exponential-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/welling-exponential-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

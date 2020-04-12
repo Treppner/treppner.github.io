@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruslan Salakhutdinov | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/ruslan-salakhutdinov/</link>
+      <atom:link href="https://Treppner.github.io/authors/ruslan-salakhutdinov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruslan Salakhutdinov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Ruslan Salakhutdinov</title>
+      <link>https://Treppner.github.io/authors/ruslan-salakhutdinov/</link>
+    </image>
+    
+    <item>
+      <title>Learning deep generative models</title>
+      <link>https://Treppner.github.io/publication/salakhutdinov-learning-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/salakhutdinov-learning-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep boltzmann machines</title>
+      <link>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

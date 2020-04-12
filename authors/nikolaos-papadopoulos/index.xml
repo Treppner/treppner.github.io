@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikolaos Papadopoulos | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/nikolaos-papadopoulos/</link>
+      <atom:link href="https://Treppner.github.io/authors/nikolaos-papadopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolaos Papadopoulos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Nikolaos Papadopoulos</title>
+      <link>https://Treppner.github.io/authors/nikolaos-papadopoulos/</link>
+    </image>
+    
+    <item>
+      <title>PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes</title>
+      <link>https://Treppner.github.io/publication/papadopoulos-prosstt-2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/papadopoulos-prosstt-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes</title>
+      <link>https://Treppner.github.io/publication/papadopoulos-prosstt-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/papadopoulos-prosstt-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

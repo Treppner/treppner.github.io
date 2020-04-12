@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Martin Treppner</title>
+    <link>https://Treppner.github.io/publication_types/5/</link>
+      <atom:link href="https://Treppner.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>5</title>
+      <link>https://Treppner.github.io/publication_types/5/</link>
+    </image>
+    
+    <item>
+      <title>Sajita Lab - How many cells?</title>
+      <link>https://Treppner.github.io/publication/noauthor-sajita-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/noauthor-sajita-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The elements of statistical learning: data mining, inference, and prediction</title>
+      <link>https://Treppner.github.io/publication/john-lu-elements-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/john-lu-elements-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of cluster analysis</title>
+      <link>https://Treppner.github.io/publication/hennig-handbook-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/hennig-handbook-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression modeling strategies</title>
+      <link>https://Treppner.github.io/publication/harrell-regression-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/harrell-regression-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodik klinischer Studien: Methodische Grundlagen der Planung, Durchführung und Auswertung</title>
+      <link>https://Treppner.github.io/publication/schumacher-methodik-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/schumacher-methodik-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

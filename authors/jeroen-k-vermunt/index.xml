@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeroen K Vermunt | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/jeroen-k-vermunt/</link>
+      <atom:link href="https://Treppner.github.io/authors/jeroen-k-vermunt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeroen K Vermunt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Jeroen K Vermunt</title>
+      <link>https://Treppner.github.io/authors/jeroen-k-vermunt/</link>
+    </image>
+    
+    <item>
+      <title>Power Analysis for the Likelihood-Ratio Test in Latent Markov Models: Shortcutting the Bootstrap p-Value-Based Method</title>
+      <link>https://Treppner.github.io/publication/gudicha-power-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/gudicha-power-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Van Oudenaarden | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/alexander-van-oudenaarden/</link>
+      <atom:link href="https://Treppner.github.io/authors/alexander-van-oudenaarden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Van Oudenaarden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Alexander Van Oudenaarden</title>
+      <link>https://Treppner.github.io/authors/alexander-van-oudenaarden/</link>
+    </image>
+    
+    <item>
+      <title>Design and analysis of single-cell sequencing experiments</title>
+      <link>https://Treppner.github.io/publication/grun-design-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/grun-design-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of noise models for single-cell transcriptomics</title>
+      <link>https://Treppner.github.io/publication/grun-validation-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/grun-validation-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

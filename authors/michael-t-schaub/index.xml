@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael T Schaub | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/michael-t-schaub/</link>
+      <atom:link href="https://Treppner.github.io/authors/michael-t-schaub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael T Schaub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Michael T Schaub</title>
+      <link>https://Treppner.github.io/authors/michael-t-schaub/</link>
+    </image>
+    
+    <item>
+      <title>SC3: consensus clustering of single-cell RNA-seq data</title>
+      <link>https://Treppner.github.io/publication/kiselev-sc-3-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/kiselev-sc-3-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

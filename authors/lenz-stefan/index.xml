@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenz Stefan | Martin Treppner</title>
+    <link>/authors/lenz-stefan/</link>
+      <atom:link href="/authors/lenz-stefan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lenz Stefan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/martintreppner</url>
+      <title>Lenz Stefan</title>
+      <link>/authors/lenz-stefan/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Activity Tracker Data Using Deep Boltzmann Machines</title>
+      <link>/publication/martin-modeling-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/martin-modeling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

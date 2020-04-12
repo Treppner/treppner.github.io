@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donald W Bouldin | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/donald-w-bouldin/</link>
+      <atom:link href="https://Treppner.github.io/authors/donald-w-bouldin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donald W Bouldin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1979 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Donald W Bouldin</title>
+      <link>https://Treppner.github.io/authors/donald-w-bouldin/</link>
+    </image>
+    
+    <item>
+      <title>A cluster separation measure</title>
+      <link>https://Treppner.github.io/publication/davies-cluster-1979/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/davies-cluster-1979/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

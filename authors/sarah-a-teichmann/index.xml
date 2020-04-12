@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah A Teichmann | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/sarah-a-teichmann/</link>
+      <atom:link href="https://Treppner.github.io/authors/sarah-a-teichmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah A Teichmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Sarah A Teichmann</title>
+      <link>https://Treppner.github.io/authors/sarah-a-teichmann/</link>
+    </image>
+    
+    <item>
+      <title>A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications</title>
+      <link>https://Treppner.github.io/publication/haque-practical-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/haque-practical-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power analysis of single-cell RNA-sequencing experiments</title>
+      <link>https://Treppner.github.io/publication/svensson-power-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/svensson-power-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational and analytical challenges in single-cell transcriptomics</title>
+      <link>https://Treppner.github.io/publication/stegle-computational-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/stegle-computational-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

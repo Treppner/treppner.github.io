@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Welling | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/max-welling/</link>
+      <atom:link href="https://Treppner.github.io/authors/max-welling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Welling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Max Welling</title>
+      <link>https://Treppner.github.io/authors/max-welling/</link>
+    </image>
+    
+    <item>
+      <title>Auto-encoding variational bayes</title>
+      <link>https://Treppner.github.io/publication/kingma-auto-encoding-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/kingma-auto-encoding-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential family harmoniums with an application to information retrieval</title>
+      <link>https://Treppner.github.io/publication/welling-exponential-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/welling-exponential-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

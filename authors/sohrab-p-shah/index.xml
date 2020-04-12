@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sohrab P Shah | Martin Treppner</title>
+    <link>https://Treppner.github.io/authors/sohrab-p-shah/</link>
+      <atom:link href="https://Treppner.github.io/authors/sohrab-p-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sohrab P Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Treppner.github.io/img/martintreppner</url>
+      <title>Sohrab P Shah</title>
+      <link>https://Treppner.github.io/authors/sohrab-p-shah/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable dimensionality reduction of single cell transcriptome data with deep generative models</title>
+      <link>https://Treppner.github.io/publication/ding-interpretable-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/ding-interpretable-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
