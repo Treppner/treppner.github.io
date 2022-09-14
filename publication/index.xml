@@ -1,366 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Martin Treppner</title>
+    <title>Publications | Dr. Martin Treppner</title>
     <link>https://Treppner.github.io/publication/</link>
       <atom:link href="https://Treppner.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Treppner.github.io/img/martintreppner</url>
+      <url>https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://Treppner.github.io/publication/</link>
     </image>
     
     <item>
-      <title>scHinter: imputing dropout events for single-cell RNA-seq data with limited sample size</title>
-      <link>https://Treppner.github.io/publication/ye-schinter-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/ye-schinter-2019/</guid>
+      <title>Designing Single Cell RNA-Sequencing Experiments for Learning Latent Representations</title>
+      <link>https://Treppner.github.io/publication/scvide/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/scvide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evaluating measures of association for single-cell transcriptomics</title>
-      <link>https://Treppner.github.io/publication/skinnider-evaluating-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/skinnider-evaluating-2019/</guid>
+      <title>The performance of deep generative models for learning joint embeddings of single-cell multi-omics data</title>
+      <link>https://Treppner.github.io/publication/multiomics/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/multiomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantifying the tradeoff between sequencing depth and cell number in single-cell RNA-seq</title>
-      <link>https://Treppner.github.io/publication/svensson-quantifying-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/svensson-quantifying-2019/</guid>
+      <title>Interpretable generative deep learning: an illustration with single cell gene expression data</title>
+      <link>https://Treppner.github.io/publication/xai/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/xai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Single-cell RNA-seq denoising using a deep count autoencoder</title>
-      <link>https://Treppner.github.io/publication/eraslan-single-cell-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/eraslan-single-cell-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sajita Lab - How many cells?</title>
-      <link>https://Treppner.github.io/publication/noauthor-sajita-2018/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/noauthor-sajita-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A general and flexible method for signal extraction from single-cell RNA-seq data</title>
-      <link>https://Treppner.github.io/publication/risso-general-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/risso-general-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A statistical simulator scDesign for rational scRNA-seq experimental design</title>
-      <link>https://Treppner.github.io/publication/li-statistical-2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/li-statistical-2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A statistical simulator scDesign for rational scRNA-seq experimental design</title>
-      <link>https://Treppner.github.io/publication/li-statistical-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/li-statistical-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep generative modeling for single-cell transcriptomics</title>
-      <link>https://Treppner.github.io/publication/lopez-deep-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/lopez-deep-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exponential Family Restricted Boltzmann Machines and Annealed Importance Sampling</title>
-      <link>https://Treppner.github.io/publication/li-exponential-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/li-exponential-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives</title>
-      <link>https://Treppner.github.io/publication/dal-molin-how-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/dal-molin-how-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretable dimensionality reduction of single cell transcriptome data with deep generative models</title>
-      <link>https://Treppner.github.io/publication/ding-interpretable-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/ding-interpretable-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Activity Tracker Data Using Deep Boltzmann Machines</title>
-      <link>https://Treppner.github.io/publication/martin-modeling-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/martin-modeling-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One read per cell per gene is optimal for single-cell RNA-Seq</title>
-      <link>https://Treppner.github.io/publication/zhang-one-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/zhang-one-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes</title>
-      <link>https://Treppner.github.io/publication/papadopoulos-prosstt-2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/papadopoulos-prosstt-2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes</title>
-      <link>https://Treppner.github.io/publication/papadopoulos-prosstt-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/papadopoulos-prosstt-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications</title>
-      <link>https://Treppner.github.io/publication/haque-practical-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/haque-practical-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feasibility of sample size calculation for RNA-seq studies</title>
-      <link>https://Treppner.github.io/publication/poplawski-feasibility-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/poplawski-feasibility-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Massively parallel digital transcriptional profiling of single cells</title>
-      <link>https://Treppner.github.io/publication/zheng-massively-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/zheng-massively-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power analysis of single-cell RNA-sequencing experiments</title>
-      <link>https://Treppner.github.io/publication/svensson-power-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/svensson-power-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SC3: consensus clustering of single-cell RNA-seq data</title>
-      <link>https://Treppner.github.io/publication/kiselev-sc-3-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/kiselev-sc-3-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single cells make big data: new challenges and opportunities in transcriptomics</title>
-      <link>https://Treppner.github.io/publication/angerer-single-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/angerer-single-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Splatter: simulation of single-cell RNA sequencing data</title>
-      <link>https://Treppner.github.io/publication/zappia-splatter-2017-1/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/zappia-splatter-2017-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Splatter: simulation of single-cell RNA sequencing data</title>
-      <link>https://Treppner.github.io/publication/zappia-splatter-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/zappia-splatter-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The elements of statistical learning: data mining, inference, and prediction</title>
-      <link>https://Treppner.github.io/publication/john-lu-elements-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/john-lu-elements-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design and computational analysis of single-cell RNA-sequencing experiments</title>
-      <link>https://Treppner.github.io/publication/bacher-design-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/bacher-design-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diffusion pseudotime robustly reconstructs lineage branching</title>
-      <link>https://Treppner.github.io/publication/haghverdi-diffusion-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/haghverdi-diffusion-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Analysis for the Likelihood-Ratio Test in Latent Markov Models: Shortcutting the Bootstrap p-Value-Based Method</title>
-      <link>https://Treppner.github.io/publication/gudicha-power-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/gudicha-power-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational and analytical challenges in single-cell transcriptomics</title>
-      <link>https://Treppner.github.io/publication/stegle-computational-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/stegle-computational-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design and analysis of single-cell sequencing experiments</title>
-      <link>https://Treppner.github.io/publication/grun-design-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/grun-design-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Handbook of cluster analysis</title>
-      <link>https://Treppner.github.io/publication/hennig-handbook-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/hennig-handbook-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning deep generative models</title>
-      <link>https://Treppner.github.io/publication/salakhutdinov-learning-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/salakhutdinov-learning-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression modeling strategies</title>
-      <link>https://Treppner.github.io/publication/harrell-regression-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/harrell-regression-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Validation of noise models for single-cell transcriptomics</title>
-      <link>https://Treppner.github.io/publication/grun-validation-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/grun-validation-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Auto-encoding variational bayes</title>
-      <link>https://Treppner.github.io/publication/kingma-auto-encoding-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/kingma-auto-encoding-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample size requirements for structural equation models: An evaluation of power, bias, and solution propriety</title>
-      <link>https://Treppner.github.io/publication/wolf-sample-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/wolf-sample-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An efficient learning procedure for deep Boltzmann machines</title>
-      <link>https://Treppner.github.io/publication/hinton-efficient-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/hinton-efficient-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep boltzmann machines</title>
-      <link>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/salakhutdinov-deep-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methodik klinischer Studien: Methodische Grundlagen der Planung, Durchführung und Auswertung</title>
-      <link>https://Treppner.github.io/publication/schumacher-methodik-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/schumacher-methodik-2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical significance of clustering for high-dimension, low–sample size data</title>
-      <link>https://Treppner.github.io/publication/liu-statistical-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/liu-statistical-2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exponential family harmoniums with an application to information retrieval</title>
-      <link>https://Treppner.github.io/publication/welling-exponential-2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/welling-exponential-2005/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample size in factor analysis: The role of model error</title>
-      <link>https://Treppner.github.io/publication/maccallum-sample-2001/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/maccallum-sample-2001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Some practical guidelines for effective sample size determination</title>
-      <link>https://Treppner.github.io/publication/lenth-practical-2001/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/lenth-practical-2001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A cluster separation measure</title>
-      <link>https://Treppner.github.io/publication/davies-cluster-1979/</link>
-      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/davies-cluster-1979/</guid>
+      <title>Synthetic single cell RNA sequencing data from small pilot studies using deep generative models</title>
+      <link>https://Treppner.github.io/publication/scdbm/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/scdbm/</guid>
       <description></description>
     </item>
     
