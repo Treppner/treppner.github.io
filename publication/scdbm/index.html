@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: October 20, 2022 --><html lang="en-us" >
 
 
 <head>
@@ -8,7 +10,7 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
   
 
   
@@ -62,46 +64,20 @@
 
   
   
-  
-  
-  
-    
-    
-    
-  
-  
-
-  
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Deep generative models, such as variational autoencoders (VAEs) or deep Boltzmann machines (DBMs), can generate an arbitrary number of synthetic observations after being trained on an initial set of samples. This has mainly been investigated for imaging data but could also be useful for single-cell transcriptomics (scRNA-seq). A small pilot study could be used for planning a full-scale experiment by investigating planned analysis strategies on synthetic data with different sample sizes. It is unclear whether synthetic observations generated based on a small scRNA-seq dataset reflect the properties relevant for subsequent data analysis steps. We specifically investigated two deep generative modeling approaches, VAEs and DBMs. First, we considered single-cell variational inference (scVI) in two variants, generating samples from the posterior distribution, the standard approach, or the prior distribution. Second, we propose single-cell deep Boltzmann machines (scDBMs). When considering the similarity of clustering results on synthetic data to ground-truth clustering, we find that the 𝑠𝑐𝑉𝐼𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 variant resulted in high variability, most likely due to amplifying artifacts of small datasets. All approaches showed mixed results for cell types with different abundance by overrepresenting highly abundant cell types and missing less abundant cell types. With increasing pilot dataset sizes, the proportions of the cells in each cluster became more similar to that of ground-truth data. We also showed that all approaches learn the univariate distribution of most genes, but problems occurred with bimodality. Across all analyses, in comparing 10× Genomics and Smart-seq2 technologies, we could show that for 10× datasets, which have higher sparsity, it is more challenging to make inference from small to larger datasets. Overall, the results show that generative deep learning approaches might be valuable for supporting the design of scRNA-seq experiments." />
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://Treppner.github.io/publication/scdbm/" />
-
-  
-  
-  
-    <meta name="theme-color" content="#3f51b5" />
-  
 
   
   
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -236,7 +212,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.6de3cf83244b541005ee1cabb8c7a150.css" />
+  <link rel="stylesheet" href="/css/wowchemy.1e91b7483bedea3afd020221b44e71d4.css" />
 
   
   
@@ -256,74 +232,102 @@
 
 
 
-  
-
-
-  
-
-
-  
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
 
+
+
+
+
+
+
+
+
+
   
-  
+
+<meta name="description" content="Deep generative models, such as variational autoencoders (VAEs) or deep Boltzmann machines (DBMs), can generate an arbitrary number of synthetic observations after being trained on an initial set of samples. This has mainly been investigated for imaging data but could also be useful for single-cell transcriptomics (scRNA-seq). A small pilot study could be used for planning a full-scale experiment by investigating planned analysis strategies on synthetic data with different sample sizes. It is unclear whether synthetic observations generated based on a small scRNA-seq dataset reflect the properties relevant for subsequent data analysis steps. We specifically investigated two deep generative modeling approaches, VAEs and DBMs. First, we considered single-cell variational inference (scVI) in two variants, generating samples from the posterior distribution, the standard approach, or the prior distribution. Second, we propose single-cell deep Boltzmann machines (scDBMs). When considering the similarity of clustering results on synthetic data to ground-truth clustering, we find that the 𝑠𝑐𝑉𝐼𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 variant resulted in high variability, most likely due to amplifying artifacts of small datasets. All approaches showed mixed results for cell types with different abundance by overrepresenting highly abundant cell types and missing less abundant cell types. With increasing pilot dataset sizes, the proportions of the cells in each cluster became more similar to that of ground-truth data. We also showed that all approaches learn the univariate distribution of most genes, but problems occurred with bimodality. Across all analyses, in comparing 10× Genomics and Smart-seq2 technologies, we could show that for 10× datasets, which have higher sparsity, it is more challenging to make inference from small to larger datasets. Overall, the results show that generative deep learning approaches might be valuable for supporting the design of scRNA-seq experiments." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://Treppner.github.io/publication/scdbm/" />
+<link rel="canonical" href="https://Treppner.github.io/publication/scdbm/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#3f51b5" />
+
+
+
+
+
+
+
+
+
 
   
   
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Martin Treppner, PhD" />
+<meta property="og:url" content="https://Treppner.github.io/publication/scdbm/" />
+<meta property="og:title" content="Synthetic single cell RNA sequencing data from small pilot studies using deep generative models | Martin Treppner, PhD" />
+<meta property="og:description" content="Deep generative models, such as variational autoencoders (VAEs) or deep Boltzmann machines (DBMs), can generate an arbitrary number of synthetic observations after being trained on an initial set of samples. This has mainly been investigated for imaging data but could also be useful for single-cell transcriptomics (scRNA-seq). A small pilot study could be used for planning a full-scale experiment by investigating planned analysis strategies on synthetic data with different sample sizes. It is unclear whether synthetic observations generated based on a small scRNA-seq dataset reflect the properties relevant for subsequent data analysis steps. We specifically investigated two deep generative modeling approaches, VAEs and DBMs. First, we considered single-cell variational inference (scVI) in two variants, generating samples from the posterior distribution, the standard approach, or the prior distribution. Second, we propose single-cell deep Boltzmann machines (scDBMs). When considering the similarity of clustering results on synthetic data to ground-truth clustering, we find that the 𝑠𝑐𝑉𝐼𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 variant resulted in high variability, most likely due to amplifying artifacts of small datasets. All approaches showed mixed results for cell types with different abundance by overrepresenting highly abundant cell types and missing less abundant cell types. With increasing pilot dataset sizes, the proportions of the cells in each cluster became more similar to that of ground-truth data. We also showed that all approaches learn the univariate distribution of most genes, but problems occurred with bimodality. Across all analyses, in comparing 10× Genomics and Smart-seq2 technologies, we could show that for 10× datasets, which have higher sparsity, it is more challenging to make inference from small to larger datasets. Overall, the results show that generative deep learning approaches might be valuable for supporting the design of scRNA-seq experiments." /><meta property="og:image" content="https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://Treppner.github.io/publication/scdbm/" />
-
+    <meta
+      property="article:published_time"
+      content="2022-06-18T18:56:53&#43;00:00"
+    />
   
   
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
-
-  
-  
-    
-    
-  
-  <meta property="twitter:card" content="summary" />
-  
-    <meta property="twitter:site" content="@wowchemy" />
-    <meta property="twitter:creator" content="@wowchemy" />
-  
-  <meta property="og:site_name" content="Martin Treppner, PhD" />
-  <meta property="og:url" content="https://Treppner.github.io/publication/scdbm/" />
-  <meta property="og:title" content="Synthetic single cell RNA sequencing data from small pilot studies using deep generative models | Martin Treppner, PhD" />
-  <meta property="og:description" content="Deep generative models, such as variational autoencoders (VAEs) or deep Boltzmann machines (DBMs), can generate an arbitrary number of synthetic observations after being trained on an initial set of samples. This has mainly been investigated for imaging data but could also be useful for single-cell transcriptomics (scRNA-seq). A small pilot study could be used for planning a full-scale experiment by investigating planned analysis strategies on synthetic data with different sample sizes. It is unclear whether synthetic observations generated based on a small scRNA-seq dataset reflect the properties relevant for subsequent data analysis steps. We specifically investigated two deep generative modeling approaches, VAEs and DBMs. First, we considered single-cell variational inference (scVI) in two variants, generating samples from the posterior distribution, the standard approach, or the prior distribution. Second, we propose single-cell deep Boltzmann machines (scDBMs). When considering the similarity of clustering results on synthetic data to ground-truth clustering, we find that the 𝑠𝑐𝑉𝐼𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 variant resulted in high variability, most likely due to amplifying artifacts of small datasets. All approaches showed mixed results for cell types with different abundance by overrepresenting highly abundant cell types and missing less abundant cell types. With increasing pilot dataset sizes, the proportions of the cells in each cluster became more similar to that of ground-truth data. We also showed that all approaches learn the univariate distribution of most genes, but problems occurred with bimodality. Across all analyses, in comparing 10× Genomics and Smart-seq2 technologies, we could show that for 10× datasets, which have higher sparsity, it is more challenging to make inference from small to larger datasets. Overall, the results show that generative deep learning approaches might be valuable for supporting the design of scRNA-seq experiments." /><meta property="og:image" content="https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
-  
-    
-      <meta
-        property="article:published_time"
-        content="2022-06-18T18:56:53&#43;00:00"
-      />
-    
     <meta property="article:modified_time" content="2021-04-30T00:00:00&#43;00:00">
   
 
-  
+
+
+
 
 
     
@@ -370,9 +374,20 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
+  
+
   
 
 
+  
   <title>Synthetic single cell RNA sequencing data from small pilot studies using deep generative models | Martin Treppner, PhD</title>
 
   
@@ -404,7 +419,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.7803cffbf724435a6b5d2b34fb58d89d.js"></script>
+  <script src="/js/wowchemy-init.min.ba7a0b5301d7bddff935a3260b04e001.js"></script>
 
   
 
@@ -448,7 +463,7 @@
 
 
 
-  <div class="page-header">
+  <div class="page-header header--fixed">
     
 
 
@@ -462,7 +477,7 @@
 
 
 
-<header class="header--fixed">
+<header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
@@ -649,6 +664,7 @@
 
         
         
+        
         <li class="nav-item">
           <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
@@ -704,6 +720,7 @@
 <div class="pub">
 
   
+
 
 
 
@@ -906,8 +923,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://Treppner.github.io/publication/scdbm/&amp;text=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F&amp;text=Synthetic&#43;single&#43;cell&#43;RNA&#43;sequencing&#43;data&#43;from&#43;small&#43;pilot&#43;studies&#43;using&#43;deep&#43;generative&#43;models" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -919,8 +940,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://Treppner.github.io/publication/scdbm/&amp;t=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F&amp;t=Synthetic&#43;single&#43;cell&#43;RNA&#43;sequencing&#43;data&#43;from&#43;small&#43;pilot&#43;studies&#43;using&#43;deep&#43;generative&#43;models" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -932,8 +957,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models&amp;body=https://Treppner.github.io/publication/scdbm/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models&amp;body=https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -945,8 +976,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://Treppner.github.io/publication/scdbm/&amp;title=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F&amp;title=Synthetic&#43;single&#43;cell&#43;RNA&#43;sequencing&#43;data&#43;from&#43;small&#43;pilot&#43;studies&#43;using&#43;deep&#43;generative&#43;models" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -958,8 +993,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="whatsapp://send?text=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models%20https://Treppner.github.io/publication/scdbm/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Synthetic&#43;single&#43;cell&#43;RNA&#43;sequencing&#43;data&#43;from&#43;small&#43;pilot&#43;studies&#43;using&#43;deep&#43;generative&#43;models%20https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -971,8 +1010,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://Treppner.github.io/publication/scdbm/&amp;title=Synthetic%20single%20cell%20RNA%20sequencing%20data%20from%20small%20pilot%20studies%20using%20deep%20generative%20models" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2FTreppner.github.io%2Fpublication%2Fscdbm%2F&amp;title=Synthetic&#43;single&#43;cell&#43;RNA&#43;sequencing&#43;data&#43;from&#43;small&#43;pilot&#43;studies&#43;using&#43;deep&#43;generative&#43;models" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1068,13 +1111,17 @@
 
 
   
+  
+  
+  
+  
 
-  
 
-  
 
-  
-  
+
+
+
+
 
 
 
@@ -1113,6 +1160,7 @@
       
     </a>
   </p>
+
 
 
 
@@ -1209,7 +1257,8 @@
 
 
 
-  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
 
 
 
@@ -1222,7 +1271,7 @@
   
 
 
-<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+<script src="/en/js/wowchemy.min.e8ee06ba8371980ffde659871dd593b0.js"></script>
 
 
 
@@ -1259,6 +1308,8 @@
 
 
   <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
 
 
 
