@@ -5,7 +5,7 @@
     <link>https://Treppner.github.io/tag/featured/</link>
       <atom:link href="https://Treppner.github.io/tag/featured/index.xml" rel="self" type="application/rss+xml" />
     <description>featured</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Treppner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>featured</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Designing Single Cell RNA-Sequencing Experiments for Learning Latent Representations</title>
-      <link>https://Treppner.github.io/publication/scvide/</link>
-      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/scvide/</guid>
+      <title>The performance of deep generative models for learning joint embeddings of single-cell multi-omics data</title>
+      <link>https://Treppner.github.io/publication/multiomics/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/multiomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The performance of deep generative models for learning joint embeddings of single-cell multi-omics data</title>
-      <link>https://Treppner.github.io/publication/multiomics/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://Treppner.github.io/publication/multiomics/</guid>
+      <title>Designing Single Cell RNA-Sequencing Experiments for Learning Latent Representations</title>
+      <link>https://Treppner.github.io/publication/scvide/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Treppner.github.io/publication/scvide/</guid>
       <description></description>
     </item>
     
